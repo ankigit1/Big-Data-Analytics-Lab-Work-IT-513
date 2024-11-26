@@ -33,7 +33,7 @@ This repository contains **10 experiments** conducted as part of the **Big Data 
 
 ### 6. Purchases Data Analysis  
 - **Description**:  
-  Analyzing the [Purchases dataset] for sales breakdown, highest sales, and total sales across multiple stores.  
+  Analyzing the [Purchases dataset](https://www.kaggle.com/datasets/dsfelix/purchasestxt) for sales breakdown, highest sales, and total sales across multiple stores.  
 - **Details**: [Experiment 6 PDF](https://github.com/ankigit1/Big-Data-Analytics-Lab-Work-IT-513/blob/main/LAB%206.pdf)  
 
 ### 7. Pig Scripting  
