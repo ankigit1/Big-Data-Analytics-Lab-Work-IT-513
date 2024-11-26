@@ -28,7 +28,7 @@ This repository contains **10 experiments** conducted as part of the **Big Data 
 
 ### 5. Weather Data Analysis  
 - **Description**:  
-  Analyzing [weather data] using MapReduce to find average, maximum, and minimum temperatures and filter specific data.  
+  Analyzing [weather data](https://drive.google.com/file/d/1DYGnJuf-RFtJ7HMw0J-xgE0S8I1Q3oiO/view?usp=sharing) using MapReduce to find average, maximum, and minimum temperatures and filter specific data.  
 - **Details**: [Experiment 5 PDF](https://github.com/ankigit1/Big-Data-Analytics-Lab-Work-IT-513/blob/main/LAB%205.pdf)  
 
 ### 6. Purchases Data Analysis  
