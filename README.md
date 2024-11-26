@@ -1,6 +1,6 @@
 # Big Data Analytics Lab - IT-513  
 **Mentor**: Dr. Neeraj Kumar  
-**Institution**: DR. B.R. Ambedkar NIT Jalandhar  
+**Institution**: Dr. B.R. Ambedkar NIT Jalandhar  
 
 This repository contains **10 experiments** conducted as part of the **Big Data Analytics Lab (IT-513)** under the guidance of **Dr. Neeraj Kumar**. Each experiment includes a step-by-step guide, code implementation, and output screenshots, all documented in individual PDF files.  
 
