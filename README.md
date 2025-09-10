@@ -1,6 +1,8 @@
 # Big Data Analytics Lab - IT-513  
+**Contributor**: [Ankit Garg](https://www.linkedin.com/in/ankitagg98/)
 **Mentor**: Dr. Neeraj Kumar  
-**Institution**: Dr. B.R. Ambedkar NIT Jalandhar  
+**Institution**: Dr. B.R. Ambedkar NIT Jalandhar 
+
 
 This repository contains **10 experiments** conducted as part of the **Big Data Analytics Lab (IT-513)** under the guidance of **Dr. Neeraj Kumar**. Each experiment includes a step-by-step guide, code implementation, and output screenshots, all documented in individual PDF files.  
 
@@ -28,12 +30,12 @@ This repository contains **10 experiments** conducted as part of the **Big Data 
 
 ### 5. Weather Data Analysis  
 - **Description**:  
-  Analyzing [weather data](https://drive.google.com/file/d/1DYGnJuf-RFtJ7HMw0J-xgE0S8I1Q3oiO/view?usp=sharing) using MapReduce to find average, maximum, and minimum temperatures and filter specific data.  
+  Analyzing [weather data](https://drive.google.com/file/d/1--z3rlNV9zPRkkrzdPOtTveJ4-wyliUx/view?usp=sharing) using MapReduce to find average, maximum, and minimum temperatures and filter specific data.  
 - **Details**: [Experiment 5 PDF](https://github.com/ankigit1/Big-Data-Analytics-Lab-Work-IT-513/blob/main/LAB%205.pdf)  
 
 ### 6. Purchases Data Analysis  
 - **Description**:  
-  Analyzing the [Purchases dataset](https://drive.google.com/file/d/18-d-AhMmJnqIpVe6j4GNEG6rm8MHPvEy/view?usp=sharing) for sales breakdown, highest sales, and total sales across multiple stores.  
+  Analyzing the [Purchases dataset](https://drive.google.com/file/d/1cqSPa6PV7lY0m_KHy0eKycka9akxoLgt/view?usp=sharing) for sales breakdown, highest sales, and total sales across multiple stores.  
 - **Details**: [Experiment 6 PDF](https://github.com/ankigit1/Big-Data-Analytics-Lab-Work-IT-513/blob/main/LAB%206.pdf)  
 
 ### 7. Pig Scripting  
